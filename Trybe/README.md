@@ -17,6 +17,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 >Aqio você encontrará todos os projetos desenvolvidos por _[Alessandro Mattos](https://github.com/Alessandro-Mattos)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 O programa de treinamento em desenvolvimento web da Trybe conta com mais de 1500 horas abrangendo front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e soft skills.
 As principais competências estudadas são JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outros.
+---
 
 <details>
 <summary> 📚  FUNDAMENTOS </summary>
