@@ -21,22 +21,20 @@ As principais competências estudadas são JavaScript, HTML, CSS, React, Node, E
 <details>
 <summary> 📚  Fundamentos </summary>
 
-Tudo o que se precisa saber para iniciar a carreira no mundo do desenvolvimento Web:
-```json
-- 01 Unix & Bash:
+<p> - 01 Unix & Bash:</p>
 
 [✅] Fundamentos do desenvolvimento web
 [✅] Introdução   - Unix & Shell
 [✅] Unix & Bash  - parte 1
 [✅] Unix & Bash  - parte 2
 
-- 02 Git, GitHub e Internet:
+<p> - 02 Git, GitHub e Internet:</p>
 
 [✅️] Git & GitHub - Oque é e para que serve
 [✅️] Git & GitHub - Entendendo os comandos
 [✅️] Internet     - Entendendo como ela funciona
 
-- 03 HTML e CSS:
+<p> - 03 HTML e CSS:</p>
 
 [] Introdução     - HTML&CSS
 [] HTML & CSS     - Estruturas de página
@@ -45,7 +43,7 @@ Tudo o que se precisa saber para iniciar a carreira no mundo do desenvolvimento 
 [] HTML Semântico
 [] Projeto        - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/3.1">Lições aprendidas</a> 
 
-- 04 Javascript e Lógica de programação:
+<p> - 04 Javascript e Lógica de programação:</p>
 
 [] Introdução     - JavaScript
 [] JavaScript     - Primeiros passos
@@ -54,7 +52,7 @@ Tudo o que se precisa saber para iniciar a carreira no mundo do desenvolvimento 
 [] JavaScript     - Objetos e funções
 [] Projeto        - [Playground Functions] (https://github.com/Alessandro-Mattos/Trybe/blob/ps/04/)
 
-- 05 JavaScript : DOM, Eventos e Web storage:
+<p> -05 JavaScript : DOM, Eventos e Web storage:</p>
 
 [] JavaScript     - DOM e seletores
 [] JavaScript     - Trabalhando com elementos
@@ -67,7 +65,7 @@ Tudo o que se precisa saber para iniciar a carreira no mundo do desenvolvimento 
 [] Projeto Bonus  - [Adivinhe a cor](https://github.com/Alessandro-Mattos/Trybe/blob/pj/05/5.5/)
 [] Projeto Bonus  - [Carta Misteriosa](https://github.com/Alessandro-Mattos/Trybe/blob/pj/05/5.6/)
 
-- 06 HTML & CSS :Forms, Flexbox e Responsivo:
+<p> - 06 HTML & CSS :Forms, Flexbox e Responsivo:</p>
 
 [] HTML & CSS     - Forms
 [] Bibliotecas JavaScript e Frameworks CSS
@@ -77,14 +75,14 @@ Tudo o que se precisa saber para iniciar a carreira no mundo do desenvolvimento 
 [] CSS Responsivo - Mobile First
 [] Projeto        - [Trybewarts](https://github.com/Alessandro-Mattos/Trybe/blob/pj/06/)
 
-- 07 Introdução a JavaScript ES6 e Testes unitários
+<p> - 07 Introdução a JavaScript ES6 e Testes unitários:</p>
 
 [] JavaScript ES6 - let, const, arrow functions e template literals
 [] JavaScript ES6 - Fluxo de exceção e Objetos
 [] Primeiros passos em Jest
 [] Projeto        - [JavaScript Testes Unitários](https://github.com/Alessandro-Mattos/Trybe/blob/pj/07/)
 
-- 08 Higher Order Functions do JavaScript ES6:
+<p> - 08 Higher Order Functions do JavaScript ES6:</p>
 
 [] JavaScript ES6 - Introdução a Higher Order Functions
 [] JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
@@ -93,7 +91,7 @@ Tudo o que se precisa saber para iniciar a carreira no mundo do desenvolvimento 
 [] JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 [] Projeto        - [Zoo functions](https://github.com/Alessandro-Mattos/Trybe/blob/pj/08/)
 
-- 09 JavaScript e Testes Assíncronos:
+<p> - 09 JavaScript e Testes Assíncronos:</P>
 
 [] JavaScript Assíncrono e Callbacks
 [] JavaScript Assíncrono - Fetch API e async/await
