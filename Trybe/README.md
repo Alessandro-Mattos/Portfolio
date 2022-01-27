@@ -21,15 +21,15 @@ As principais competências estudadas são JavaScript, HTML, CSS, React, Node, E
 <details>
 <summary> 📚  FUNDAMENTOS </summary>
 
-#### <p> - 01 Unix & Bash:</p> <br>
-
-[✅] Fundamentos do desenvolvimento web
-[✅] Introdução   - Unix & Shell
-[✅] Unix & Bash  - parte 1
-[✅] Unix & Bash  - parte 2
-
+#### <p> - 01 Unix & Bash:</p> 
+<br>
+<p>[✅] Fundamentos do desenvolvimento web</p>
+<p>[✅] Introdução   - Unix & Shell</p>
+<p>[✅] Unix & Bash  - parte 1</p>
+<p>[✅] Unix & Bash  - parte 2</p>
+<br>
 <p> - 02 Git, GitHub e Internet:</p>
-
+<br>
 [✅️] Git & GitHub - Oque é e para que serve
 [✅️] Git & GitHub - Entendendo os comandos
 [✅️] Internet     - Entendendo como ela funciona
