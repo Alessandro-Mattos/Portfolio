@@ -8,7 +8,7 @@ Here, you'll find the projects I've worked on and follow <strong>my journey</str
 
 ### Apenas um portfólio
 <p align="left">
-Aqui, você encontrará os projetos onde trabalhei e acompanhar <strog>minha jornada</strong>.
+Aqui, você encontrará os projetos onde trabalhei e acompanhar <strong>minha jornada</strong>.
 </p>
 
 ---
