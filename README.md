@@ -1,10 +1,10 @@
-#### :us:EN: 
+:us:EN: 
 ### Just a portfolio
 <p align="left">
 Here, you'll find the projects I've worked on and follow <strong>my journey</strong>.
 </p>
 
-#### :brazil:PT:
+:brazil:PT:
 
 ### Apenas um portfólio
 <p align="left">
