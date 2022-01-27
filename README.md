@@ -15,6 +15,6 @@ Aqui, você encontrará os projetos onde trabalhei e acompanhar <strong>minha jo
 
 ---
 
-- [Trybe](https://github.com/Alessandro-Mattos/Portifolio/Trybe/)
+- [Trybe](https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe)
 
 
