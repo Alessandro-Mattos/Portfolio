@@ -14,10 +14,6 @@ Aqui, você encontrará os projetos onde trabalhei e acompanhar <strog>minha jor
 
 ---
 
-- [Trybe](https://github.com/Alessandro-Mattos/Portifolio/Trybe/);
+- [Trybe](https://github.com/Alessandro-Mattos/Portifolio/Trybe/)
 
 
-
-
- <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/alessandro-mattos-35422122b/" /></a>
