@@ -21,7 +21,7 @@ As principais competências estudadas são JavaScript, HTML, CSS, React, Node, E
 <details>
 <summary> 📚  FUNDAMENTOS </summary>
 
-<p> - 01 Unix & Bash:</p>
+#### <p> - 01 Unix & Bash:</p> <br>
 
 [✅] Fundamentos do desenvolvimento web
 [✅] Introdução   - Unix & Shell
