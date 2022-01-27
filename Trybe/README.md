@@ -19,7 +19,7 @@ O programa de treinamento em desenvolvimento web da Trybe conta com mais de 1500
 As principais competências estudadas são JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outros.
 
 <details>
-<summary> 📚  Fundamentos </summary>
+<summary> 📚  FUNDAMENTOS </summary>
 
 <p> - 01 Unix & Bash:</p>
 
