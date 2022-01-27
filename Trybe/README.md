@@ -1,4 +1,4 @@
-![alt text](https://github.com/Alessandro-Mattos/Portfolio/Trybe/blob/trybe-logo.png?raw=true)
+![alt text](https://github.com/Alessandro-Mattos/Portfolio/blob/main/Trybe/trybe-logo.png)
 :us:
 #### EN:
 
