@@ -43,7 +43,7 @@ Tudo o que se precisa saber para iniciar a carreira no mundo do desenvolvimento 
 [] HTML & CSS     - Primeiros passos em CSS
 [] HTML & CSS     - Seletores e posicionamento
 [] HTML Semântico
-[] Projeto        - [Lições aprendidas](https://github.com/Alessandro-Mattos/Portifolio/Trybe/blob/pj/3.1/amigos.html)
+[] Projeto        - [Lições aprendidas](https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/3.1/)
 
 - 04 Javascript e Lógica de programação:
 
