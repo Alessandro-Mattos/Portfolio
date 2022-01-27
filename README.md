@@ -1,3 +1,4 @@
+![alt text](https://github.com/Alessandro-Mattos/Portfolio/blob/cover.png?raw=true)
 :us:EN: 
 #### Just a portfolio
 <p align="left">
