@@ -20,7 +20,7 @@ As principais competências estudadas são JavaScript, HTML, CSS, React, Node, E
 ---
 
 <details>
-<summary> 📚  FUNDAMENTOS </summary>
+<summary> 📚  Fundamentos </summary>
 
 #### <p> - 01 Unix & Bash:</p> 
 <br>
@@ -100,18 +100,17 @@ As principais competências estudadas são JavaScript, HTML, CSS, React, Node, E
 <p>[] Projeto       - [Carrinho de Compras](https://github.com/Alessandro-Mattos/Trybe/blob/pj/09/)</p>
 
 </details>
-
 ---
 
 <details>
-<sumary> Desenvolvimento Front-end </sumary>
+###<sumary> 📚 Desenvolvimento Front-end </sumary>
 
 Técnicas e ferramentas mais atuais para desenvolver um código de front-end que seja rápido, bonito e testável:
 </details>
 ---
 
 <details>
-<sumary>Desenvolvimento Back-end</sumary>
+###<sumary> 📚 Desenvolvimento Back-end </sumary>
 
 Código robusto, limpo, escalável e seguro. Domínio de Bancos de dados,construção de APIs com testes automatizados:
 
@@ -119,7 +118,7 @@ Código robusto, limpo, escalável e seguro. Domínio de Bancos de dados,constru
 ---
 
 <details>
-<sumary>Ciência da computação</sumary>
+###<sumary> 📚 Ciência da computação </sumary>
 
 Conceitos aplicados no dia a dia do desenvolvimento de software, análise de algorítimos e estruturas de dados:
 
