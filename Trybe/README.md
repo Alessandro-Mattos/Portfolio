@@ -99,14 +99,14 @@ As principais competências estudadas são JavaScript, HTML, CSS, React, Node, E
 <p>[] Jest          - Testes Assíncronos</p>
 <p>[] Projeto       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">Carrinho de compras</a></p>
 
-</details>
+
 ---
 
 <details>
 ###<sumary> 📚 Desenvolvimento Front-end </sumary>
 
 Técnicas e ferramentas mais atuais para desenvolver um código de front-end que seja rápido, bonito e testável:
-</details>
+
 ---
 
 <details>
@@ -114,7 +114,7 @@ Técnicas e ferramentas mais atuais para desenvolver um código de front-end que
 
 Código robusto, limpo, escalável e seguro. Domínio de Bancos de dados,construção de APIs com testes automatizados:
 
-</details>
+
 ---
 
 <details>
