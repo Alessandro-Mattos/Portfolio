@@ -74,14 +74,14 @@ As principais competências estudadas são JavaScript, HTML, CSS, React, Node, E
 <p>[] CSS Flexbox    - Parte 1</p>
 <p>[] CSS Flexbox    - Parte 2</p>
 <p>[] CSS Responsivo - Mobile First</p>
-<p>[] Projeto        - [Trybewarts](https://github.com/Alessandro-Mattos/Trybe/blob/pj/06/)</p>
+<p>[] Projeto        - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/6.0">Trybewarts</a> </p>
 <br>
 #### <p> - 07 Introdução a JavaScript ES6 e Testes unitários:</p>
 <br>
 <p>[] JavaScript ES6 - let, const, arrow functions e template literals</p>
 <p>[] JavaScript ES6 - Fluxo de exceção e Objetos</p>
 <p>[] Primeiros passos em Jest</p>
-<p>[] Projeto        - [JavaScript Testes Unitários](https://github.com/Alessandro-Mattos/Trybe/blob/pj/07/)</p>
+<p>[] Projeto        - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/7.0">JavaScript testes unitários</a> </p>
 <br>
 #### <p> - 08 Higher Order Functions do JavaScript ES6:</p>
 <br>
@@ -90,14 +90,14 @@ As principais competências estudadas são JavaScript, HTML, CSS, React, Node, E
 <p>[] JavaScript ES6 - Higher Order Functions - map e filter</p>
 <p>[] JavaScript ES6 - Higher Order Functions - reduce</p>
 <p>[] JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais</p>
-<p>[] Projeto        - [Zoo functions](https://github.com/Alessandro-Mattos/Trybe/blob/pj/08/)</p>
+<p>[] Projeto        - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/8.0">Zoo functions</a></p>
 <br>
 #### <p> - 09 JavaScript e Testes Assíncronos:</P>
 <br>
 <p>[] JavaScript Assíncrono e Callbacks</p>
 <p>[] JavaScript Assíncrono - Fetch API e async/await</p>
 <p>[] Jest          - Testes Assíncronos</p>
-<p>[] Projeto       - [Carrinho de Compras](https://github.com/Alessandro-Mattos/Trybe/blob/pj/09/)</p>
+<p>[] Projeto       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">Carrinho de compras</a></p>
 
 </details>
 ---
