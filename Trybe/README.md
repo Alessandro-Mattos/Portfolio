@@ -31,74 +31,73 @@ As principais competências estudadas são JavaScript, HTML, CSS, React, Node, E
 <br>
 <p> - 02 Git, GitHub e Internet:</p>
 <br>
-[✅️] Git & GitHub - Oque é e para que serve
-[✅️] Git & GitHub - Entendendo os comandos
-[✅️] Internet     - Entendendo como ela funciona
-
+<p>[✅️] Git & GitHub - Oque é e para que serve</p>
+<p>[✅️] Git & GitHub - Entendendo os comandos</p>
+<p>[✅️] Internet     - Entendendo como ela funciona</p>
+<br>
 <p> - 03 HTML e CSS:</p>
-
-[] Introdução     - HTML&CSS
-[] HTML & CSS     - Estruturas de página
-[] HTML & CSS     - Primeiros passos em CSS
-[] HTML & CSS     - Seletores e posicionamento
-[] HTML Semântico
-[] Projeto        - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/3.1">Lições aprendidas</a> 
-
+<br>
+  <p>[] Introdução     - HTML&CSS</p>
+<p>[] HTML & CSS     - Estruturas de página</p>
+<p>[] HTML & CSS     - Primeiros passos em CSS</p>
+<p>[] HTML & CSS     - Seletores e posicionamento</p>
+<p>[] HTML Semântico
+<p>[] Projeto        - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/3.1">Lições aprendidas</a> </p>
+<br>
 <p> - 04 Javascript e Lógica de programação:</p>
-
-[] Introdução     - JavaScript
-[] JavaScript     - Primeiros passos
-[] JavaScript     - Array e loop for
-[] JavaScripr     - Lógica de programação e algorítmos
-[] JavaScript     - Objetos e funções
-[] Projeto        - [Playground Functions] (https://github.com/Alessandro-Mattos/Trybe/blob/ps/04/)
-
+<br>
+<p>[] Introdução     - JavaScript</p>
+<p>[] JavaScript     - Primeiros passos</p>
+<p>[] JavaScript     - Array e loop for</p>
+<p>[] JavaScripr     - Lógica de programação e algorítmos</p>
+<p>[] JavaScript     - Objetos e funções</p>
+<p>[] Projeto        - [Playground Functions] (https://github.com/Alessandro-Mattos/Trybe/blob/ps/04/)</p>
+<br>
 <p> -05 JavaScript : DOM, Eventos e Web storage:</p>
-
-[] JavaScript     - DOM e seletores
-[] JavaScript     - Trabalhando com elementos
-[] JavaScript     - Eventos
-[] JavaScript     - Web storage
-[] JavaScript     - Projetos
-[] Projeto        - [Arte com pixels](https://github.com/Alessandro-Mattos/Trybe/blob/pj/05/5.1/)
-[] Projeto        - [Lista de Tarefas](https://github.com/Alessandro-Mattos/Trybe/blob/pj/05/5.2/)
-[] Projeto Bonus  - [Meme generator](https://github.com/Alessandro-Mattos/Trybe/blob/pj/05/5.4/)
-[] Projeto Bonus  - [Adivinhe a cor](https://github.com/Alessandro-Mattos/Trybe/blob/pj/05/5.5/)
-[] Projeto Bonus  - [Carta Misteriosa](https://github.com/Alessandro-Mattos/Trybe/blob/pj/05/5.6/)
-
+<br>
+  <p>[] JavaScript     - DOM e seletores</p>
+<p>[] JavaScript     - Trabalhando com elementos</p>
+<p>[] JavaScript     - Eventos</p>
+<p>[] JavaScript     - Web storage</p>
+<p>[] JavaScript     - Projetos</p>
+<p>[] Projeto        - [Arte com pixels](https://github.com/Alessandro-Mattos/Trybe/blob/pj/05/5.1/)</p>
+<p>[] Projeto        - [Lista de Tarefas](https://github.com/Alessandro-Mattos/Trybe/blob/pj/05/5.2/)</p>
+<p>[] Projeto Bonus  - [Meme generator](https://github.com/Alessandro-Mattos/Trybe/blob/pj/05/5.4/)</p>
+<p>[] Projeto Bonus  - [Adivinhe a cor](https://github.com/Alessandro-Mattos/Trybe/blob/pj/05/5.5/)</p>
+<p>[] Projeto Bonus  - [Carta Misteriosa](https://github.com/Alessandro-Mattos/Trybe/blob/pj/05/5.6/)</p>
+<br>
 <p> - 06 HTML & CSS :Forms, Flexbox e Responsivo:</p>
-
-[] HTML & CSS     - Forms
-[] Bibliotecas JavaScript e Frameworks CSS
-[] Introdução     - CSS Flexbox
-[] CSS Flexbox    - Parte 1
-[] CSS Flexbox    - Parte 2
-[] CSS Responsivo - Mobile First
-[] Projeto        - [Trybewarts](https://github.com/Alessandro-Mattos/Trybe/blob/pj/06/)
-
+<br>
+<p>[] HTML & CSS     - Forms</p>
+<p>[] Bibliotecas JavaScript e Frameworks CSS</p>
+<p>[] Introdução     - CSS Flexbox</p>
+<p>[] CSS Flexbox    - Parte 1</p>
+<p>[] CSS Flexbox    - Parte 2</p>
+<p>[] CSS Responsivo - Mobile First</p>
+<p>[] Projeto        - [Trybewarts](https://github.com/Alessandro-Mattos/Trybe/blob/pj/06/)</p>
+<br>
 <p> - 07 Introdução a JavaScript ES6 e Testes unitários:</p>
-
-[] JavaScript ES6 - let, const, arrow functions e template literals
-[] JavaScript ES6 - Fluxo de exceção e Objetos
-[] Primeiros passos em Jest
-[] Projeto        - [JavaScript Testes Unitários](https://github.com/Alessandro-Mattos/Trybe/blob/pj/07/)
-
+<br>
+<p>[] JavaScript ES6 - let, const, arrow functions e template literals</p>
+<p>[] JavaScript ES6 - Fluxo de exceção e Objetos</p>
+<p>[] Primeiros passos em Jest</p>
+<p>[] Projeto        - [JavaScript Testes Unitários](https://github.com/Alessandro-Mattos/Trybe/blob/pj/07/)</p>
+<br>
 <p> - 08 Higher Order Functions do JavaScript ES6:</p>
-
-[] JavaScript ES6 - Introdução a Higher Order Functions
-[] JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-[] JavaScript ES6 - Higher Order Functions - map e filter
-[] JavaScript ES6 - Higher Order Functions - reduce
-[] JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-[] Projeto        - [Zoo functions](https://github.com/Alessandro-Mattos/Trybe/blob/pj/08/)
-
+<br>
+<p>[] JavaScript ES6 - Introdução a Higher Order Functions</p>
+<p>[] JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort</p>
+<p>[] JavaScript ES6 - Higher Order Functions - map e filter</p>
+<p>[] JavaScript ES6 - Higher Order Functions - reduce</p>
+<p>[] JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais</p>
+<p>[] Projeto        - [Zoo functions](https://github.com/Alessandro-Mattos/Trybe/blob/pj/08/)</p>
+<br>
 <p> - 09 JavaScript e Testes Assíncronos:</P>
-
-[] JavaScript Assíncrono e Callbacks
-[] JavaScript Assíncrono - Fetch API e async/await
-[] Jest          - Testes Assíncronos
-[] Projeto       - [Carrinho de Compras](https://github.com/Alessandro-Mattos/Trybe/blob/pj/09/)
-​```
+<br>
+<p>[] JavaScript Assíncrono e Callbacks</p>
+<p>[] JavaScript Assíncrono - Fetch API e async/await</p>
+<p>[] Jest          - Testes Assíncronos</p>
+<p>[] Projeto       - [Carrinho de Compras](https://github.com/Alessandro-Mattos/Trybe/blob/pj/09/)</p>
 
 </details>
 
@@ -108,8 +107,6 @@ As principais competências estudadas são JavaScript, HTML, CSS, React, Node, E
 <sumary> Desenvolvimento Front-end </sumary>
 
 Técnicas e ferramentas mais atuais para desenvolver um código de front-end que seja rápido, bonito e testável:
-```json
-
 </details>
 ---
 
@@ -117,7 +114,6 @@ Técnicas e ferramentas mais atuais para desenvolver um código de front-end que
 <sumary>Desenvolvimento Back-end</sumary>
 
 Código robusto, limpo, escalável e seguro. Domínio de Bancos de dados,construção de APIs com testes automatizados:
-```json
 
 </details>
 ---
@@ -126,7 +122,6 @@ Código robusto, limpo, escalável e seguro. Domínio de Bancos de dados,constru
 <sumary>Ciência da computação</sumary>
 
 Conceitos aplicados no dia a dia do desenvolvimento de software, análise de algorítimos e estruturas de dados:
-```json
 
 </details>
 ---
