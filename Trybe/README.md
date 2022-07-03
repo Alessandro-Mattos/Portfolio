@@ -18,7 +18,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 O programa de treinamento em desenvolvimento web da Trybe conta com mais de 1500 horas abrangendo front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e soft skills.
 As principais competências estudadas são JavaScript, HTML, CSS, React, Node, Express.js, SQL, Git, entre outros.
 ---
-
+<section>
 <details>
 <summary> 📚  Fundamentos </summary>
 
@@ -104,9 +104,9 @@ As principais competências estudadas são JavaScript, HTML, CSS, React, Node, E
 <br>
   
 </details>
-
+</section>
 ---
-
+<section>
 <details>
 <sumary> 📚 Desenvolvimento Front-end </sumary>
   
@@ -196,7 +196,7 @@ Técnicas e ferramentas mais atuais para desenvolver um código de front-end que
 <p>[✅️] Projeto       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">App de receitas</a> </p>
 
 </details>
-
+</section>
 ---
 
 <details>
