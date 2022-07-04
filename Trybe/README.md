@@ -99,7 +99,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 ---
 
 <details>
-<summary> 📚 Front-end development </summary>
+<summary> 🖌️ Front-end development </summary>
   
 *Most current techniques and tools for developing front-end code that is fast, beautiful, and testable*
   
@@ -181,7 +181,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 ---
 
 <details>
-<summary> 📚 Back-end development </summary>
+<summary> 🖴 Back-end development </summary>
 
 *Robust, clean, scalable and secure code. Mastery of databases, building APIs with automated tests*
 
@@ -190,7 +190,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 ---
 
 <details>
-<summary> 📚 Computer Science </summary>
+<summary> 🧮 Computer Science </summary>
 
 *Concepts applied in day-to-day software development, algorithm analysis, and data structures*
 
@@ -307,7 +307,7 @@ Buefy 	Buefy 	![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.
 ---
 
 <details>
-<summary> 📚 Desenvolvimento Front-end </summary>
+<summary> 🖌️ Desenvolvimento Front-end </summary>
   
 *Técnicas e ferramentas mais atuais para desenvolver um código de front-end que seja rápido, bonito e testável*
   
@@ -389,7 +389,7 @@ Buefy 	Buefy 	![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.
 ---
 
 <details>
-<summary> 📚 Desenvolvimento Back-end </summary>
+<summary> 🖴 Desenvolvimento Back-end </summary>
 
 *Código robusto, limpo, escalável e seguro. Domínio de Bancos de dados,construção de APIs com testes automatizados*
 
@@ -398,7 +398,7 @@ Buefy 	Buefy 	![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.
 ---
 
 <details>
-<summary> 📚 Ciência da computação </summary>
+<summary> 🧮 Ciência da computação </summary>
 
 *Conceitos aplicados no dia a dia do desenvolvimento de software, análise de algorítimos e estruturas de dados*
 
