@@ -1,3 +1,6 @@
+![Just a Portfolio](https://github.com/Alessandro-Mattos/Portfolio/blob/main/cover.png) 
+
+
 ### :us:EN
 <p>Here, you'll find the projects I've worked on and follow my journey</p>
 
