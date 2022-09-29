@@ -7,7 +7,7 @@
 ---
 
 ###  :brazil:PT
-<p>Aqui, encontrarão os projetos em que trabalhei e acompanharão a minha minha jornada.</p>
+<p>Aqui, encontrarão os projetos em que trabalhei e acompanharão a minha jornada.</p>
 
 
 
