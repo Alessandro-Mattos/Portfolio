@@ -261,6 +261,8 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 > <p>[✅️] Project       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">Trybe Futebol Clube</a> </p>
 <br>
 
+</details>
+  
 ---
 
 <details>
