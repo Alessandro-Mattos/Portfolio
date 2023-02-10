@@ -185,7 +185,81 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 *Robust, clean, scalable and secure code. Mastery of databases, building APIs with automated tests*
 
-</details>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+* 19 Docker: Using Containers
+> <br>
+> <p>[✅️] Using Docker Containers</p>
+> <p>[✅️] Manipulating Docker Images</p>
+> <p>[✅️] Orchestrating Containers with Docker Compose</p>
+> <p>[✅️] Project       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">Docker Todo-List</a> </p>
+<br>
+
+* 20 Introduction to SQL
+> <br>
+> <p>[✅️] SQL Database</p>
+> <p>[✅️] Finding datda in a database</p>
+> <p>[✅️] Filtering data in a specific way</p>
+> <p>[✅️] Manipulating tables</p>
+> <p>[✅️] Project      - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">All For One</a> </p>
+<br>
+
+* 21 SQL Functions, Join and Normalization
+> <br>
+> <p>[✅️] Most commonly used functions in SQL</p>
+> <p>[✅️] Uncomplicating JOINs</p>
+> <p>[✅️] Turning ideas into a database model</p>
+> <p>[✅️] Project       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">One For All</a> </p>
+<br>
+  
+* 22 Introduction to web development with Node.js
+> <br>
+> <p>[✅️] Node.js: Asynchronous Runtime</p>
+> <p>[✅️] Node.js: REST API with Express</p>
+> <p>[✅️] Node.js: Integration Testing</p>
+> <p>[✅️] Node.js: Express and Middlewares</p>
+> <p>[✅️] Node.js: Express and MySQL</p>
+> <p>[✅️] Project       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">Talker Manager</a> </p>
+<br>
+
+* 23 Software Architecture: Model, Service and Controller
+> <br>
+> <p>[✅️] Software Architecture: Model Layer</p>
+> <p>[✅️] Software Architecture: Service Layer</p>
+> <p>[✅️] Software Architecture: Controller Layer</p>
+> <p>[✅️] Project       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">Store Manager</a> </p>
+<br>
+
+* 24 Node.js: ORM and authentication
+> <br>
+> <p>[✅️] ORM - Interfacing the application to the database</p>
+> <p>[✅️] ORM - Associations 1:1 and 1:N</p>
+> <p>[✅️] ORM - Associations N:N and Transactions</p>
+> <p>[✅️] JWT - (JSON Web Token)</p>
+> <p>[✅️] Project       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">Blog API</a> </p>
+<br>
+
+* 25 Introduction to Typescript
+> <br>
+> <p>[✅️] Introduction to TypeScript</p>
+> <p>[✅️] Static Typing and Generics</p>
+> <p>[✅️] Express with TypeScript</p>
+> <p>[✅️] Project       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">Trybesmith</a> </p>
+<br>
+
+* 26 Object-oriented programming (O.O.P) and S.O.L.I.D
+> <br>
+> <p>[✅️] Introduction to Object Orientation</p>
+> <p>[✅️] Inheritance and Composition</p>
+> <p>[✅️] Polymorphism</p>
+> <p>[✅️] SOLID - Introduction and Principles S, O and D</p>
+> <p>[✅️] SOLID - Principles L and I</p>
+> <p>[✅️] Project       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">Trybers & Dragons</a> </p>
+
+* 27 Project T.F.C - Trybe Futebol Clube
+> <br>
+> <p>[✅️] Project       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">Trybe Futebol Clube</a> </p>
+<br>
 
 ---
 
