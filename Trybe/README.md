@@ -183,7 +183,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 <details>
 <summary> 🖴 Back-end development </summary>
 
-*Robust, clean, scalable and secure code. Mastery of databases, building APIs with automated tests*
+*Robust, clean, scalable and secure code. Mastery of databases, building REST APIs with automated tests*
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -268,6 +268,54 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 *Concepts applied in day-to-day software development, algorithm analysis, and data structures*
 
+* 28 Introduction to Python
+> <br>
+> <p>[✅️] Learning Python</p>
+> <p>[✅️] Data Input and Output</p>
+> <p>[✅️] Testing</p>
+> <p>[✅️] Project       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">Job Insights</a> </p>
+<br>
+  
+* 29 Project Patterns
+> <br>
+> <p>[✅️] O.O.P in Python</p>
+> <p>[✅️] Patterns - Iterator, Adapter, Strategy</p>
+> <p>[✅️] Patterns - Decorator, Observer, Factory</p>
+> <p>[✅️] Project       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">Stock Reports</a> </p>
+<br>
+
+* 30 Data scraping
+> <br>
+> <p>[✅️] Data Scraping</p>
+> <p>[✅️] Other Data Scraping Tools</p>
+> <p>[✅️] Activity Day - Crawlers + OOP</p>
+> <p>[✅️] Project       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">Tech news</a> </p>
+<br>
+
+* 31 Algorithms
+> <br>
+> <p>[✅️] Algorithm Complexity</p>
+> <p>[✅️] Recursivity and Problem-Solving Strategies</p>
+> <p>[✅️] Sorting and search algorithms</p>
+> <p>[✅️] Project       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">Algorithms</a> </p>
+<br>  
+  
+* 32 Data structure: Arrays, List, Queues ans Stacks
+> <br>
+> <p>[✅️] Computer Architecture</p>
+> <p>[✅️] Arrays</p>
+> <p>[✅️] Nodes and Linked Lists</p>
+> <p>[✅️] Stacks and Queues</p>
+> <p>[✅️] Project       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">TING - Trybe Is Not Google</a> </p>
+<br>
+
+* 31 Data structure II: Hashmaps and Sets
+> <br>
+> <p>[✅️] Hashmap and Dict</p>
+> <p>[✅️] Set</p>
+> <p>[✅️] Project       - <a href="https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe/pjs/9.0">Restaurant Orders</a> </p>
+<br>  
+  
 </details>
 
 ---
