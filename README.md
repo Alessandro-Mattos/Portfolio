@@ -1,6 +1,6 @@
 ![Just a Portfolio](https://github.com/Alessandro-Mattos/Portfolio/blob/main/cover.png) 
 
-- [Trybe](https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe) [Under maintenance/ Em manutenção]
+- [Trybe Code School](https://github.com/Alessandro-Mattos/Portfolio/tree/main/Trybe) [Under maintenance/ Em manutenção]
 
 
 ### :us:EN
